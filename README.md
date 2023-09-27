@@ -4,9 +4,7 @@
 <h1 align="center">Hello there! 👋 I'm Abu Sayed Al Siam</h1>
 <h3 align="center">Passionate Software Developer | Crafting Innovative Web Solutions</h3>
 
-<p align="center">
-  <img alt="coding" width="500" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656nntt/75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
-</p>
+
 
 <p align="center">Let's turn ideas into reality through code! 🚀</p>
 
