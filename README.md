@@ -4,14 +4,14 @@
 <h3 align="center">Passionate Software Developer | Crafting Innovative Web Solutions</h3>
 
 <p align="center">
-  <img alt="coding" width="500" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
+  <img alt="coding" width="500" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656nntt/75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 </p>
 
 <p align="center">Let's turn ideas into reality through code! 🚀</p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=codewithsiam&label=Profile%20views&color=0e75b6&style=flat" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=codewithsiam&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsiam" />
+  <a href="https://komarev.com/ghpvc/?username=codewithsiam&label=Profile%20views&color=ff69b4&style=flat" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=codewithsiam&label=Profile%20views&color=ff69b4&style=flat" alt="codewithsiam" />
   </a>
 </p>
 
@@ -56,13 +56,13 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithsiam&show_icons=true&locale=en&layout=compact" alt="codewithsiam" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithsiam&show_icons=true&locale=en&layout=compact&theme=radical" alt="codewithsiam" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithsiam&show_icons=true&locale=en" alt="codewithsiam" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithsiam&show_icons=true&locale=en&theme=radical" alt="codewithsiam" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithsiam&" alt="codewithsiam" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithsiam&theme=radical" alt="codewithsiam" />
 </p>
