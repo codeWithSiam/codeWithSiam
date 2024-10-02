@@ -1,4 +1,7 @@
-[![MasterHead](https://i.ibb.co/7RM3whH/your-image-file.png)](https://github.com/abuSayedAlSiam)
+<p align="center">
+  <img src="https://i.ibb.co/7RM3whH/your-image-file.png" alt="MasterHead" width="100%" />
+</p>
+
 
 
 <h1 align="center">Hi 👋, I'm Abu Sayed Al Siam</h1>
