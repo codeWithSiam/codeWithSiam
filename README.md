@@ -80,10 +80,7 @@
   </a>
 </p>
 
-
-<h3 align="left">📊 GitHub Stats</h3>
-<p align="left">
-  ![](https://github-readme-stats.vercel.app/api?username=codewithsiam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=codewithsiam&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsiam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=codewithsiam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=codewithsiam&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsiam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
