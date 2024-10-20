@@ -1,24 +1,31 @@
 <h1 align="center">Hi 👋, I'm Abu Sayed Al Siam</h1>
 <h3 align="center">Full Stack Web Application Developer | Let's turn ideas into reality through code!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithsiam&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsiam" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=codewithsiam&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsiam" /> 
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithsiam" alt="codewithsiam" /></a> </p>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=codewithsiam" alt="codewithsiam" />
+  </a> 
+</p>
 
 - 🔭 I’m currently working on [ZiNi Pay](https://www.zinipay.com/)
-
-- 👨‍💻 All of my projects are available at [https://abusayedalsiam.netlify.app/](https://abusayedalsiam.netlify.app/)
-
-- 📫 How to reach me **abusayedalsiam2023@gmail.com**
+- 👨‍💻 All of my projects are available at [my portfolio](https://abusayedalsiam.netlify.app/)
+- 📫 How to reach me **[abusayedalsiam2023@gmail.com](mailto:abusayedalsiam2023@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abu-sayed-al-siam-411017277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abu-sayed-al-siam-411017277/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/codewithsiam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/codewithsiam" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/abu-sayed-al-siam-411017277/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/codewithsiam" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">🌐 Languages and Tools</h3>
-
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" title="CSS3"/>
@@ -73,15 +80,9 @@
   </a>
 </p>
 
-<style>
-  p {
-    text-align: center; /* Center-align icons */
-    flex-wrap: wrap; /* Allow icons to wrap */
-  }
-</style>
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codewithsiam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=codewithsiam&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsiam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="left">📊 GitHub Stats</h3>
+<p align="left">
+  ![](https://github-readme-stats.vercel.app/api?username=codewithsiam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=codewithsiam&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsiam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</p>
